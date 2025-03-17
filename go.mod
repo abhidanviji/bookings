@@ -1,4 +1,4 @@
-module github.com/abhidhan/bookings
+module github.com/abhidanviji/bookings
 
 go 1.24.1
 
