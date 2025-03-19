@@ -1,0 +1,22 @@
+mode: set
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:24.47,28.2 1 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:31.33,33.2 1 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:36.67,40.2 3 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:43.68,54.2 5 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:57.74,65.2 4 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:68.78,70.16 2 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:70.16,73.3 2 0
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:75.2,88.19 6 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:88.19,97.3 4 0
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:99.2,100.66 2 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:104.71,106.2 1 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:109.69,111.2 1 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:114.75,116.2 1 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:119.79,124.2 3 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:132.79,139.16 3 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:139.16,141.3 1 0
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:143.2,144.14 2 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:148.70,150.2 1 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:152.81,154.9 2 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:154.9,159.3 4 1
+github.com/abhidanviji/bookings/internal/handlers/handlers.go:161.2,168.4 4 0
